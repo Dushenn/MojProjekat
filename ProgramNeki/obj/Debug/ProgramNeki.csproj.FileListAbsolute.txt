@@ -1,0 +1,7 @@
+K:\Dusan Srednja Skola\Visual Studio\Projects\ProgramNeki\bin\Debug\ProgramNeki.exe.config
+K:\Dusan Srednja Skola\Visual Studio\Projects\ProgramNeki\bin\Debug\ProgramNeki.exe
+K:\Dusan Srednja Skola\Visual Studio\Projects\ProgramNeki\bin\Debug\ProgramNeki.pdb
+K:\Dusan Srednja Skola\Visual Studio\Projects\ProgramNeki\obj\Debug\ProgramNeki.csproj.AssemblyReference.cache
+K:\Dusan Srednja Skola\Visual Studio\Projects\ProgramNeki\obj\Debug\ProgramNeki.csproj.CoreCompileInputs.cache
+K:\Dusan Srednja Skola\Visual Studio\Projects\ProgramNeki\obj\Debug\ProgramNeki.exe
+K:\Dusan Srednja Skola\Visual Studio\Projects\ProgramNeki\obj\Debug\ProgramNeki.pdb
