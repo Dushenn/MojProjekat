@@ -11,7 +11,7 @@ namespace ProgramNeki
         public string ime { get; set; }
         public string prezime { get; set; }
         public string jmbg { get; set; }
-        public int godiste { get; set; }
+        public int godiste;
 
         public Osoba(string im, string pre, string j, int god)
         {
